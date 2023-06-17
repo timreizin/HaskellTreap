@@ -1,2 +1,2 @@
 # HaskellTreap
-Treat in Haskell
+Treap in Haskell
